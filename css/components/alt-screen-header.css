@@ -19,3 +19,8 @@
 .alt-header__column:last-child {
     margin-left: auto;
 }
+
+.alt-header__column span:last-child {
+    box-sizing: border-box;
+    margin-left: 15px;
+}
